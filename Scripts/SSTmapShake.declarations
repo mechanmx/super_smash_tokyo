@@ -1,0 +1,11 @@
+//TOKYO-TOWER-GRASS
+Obj("sst_TokyoTower4.obj","tower",0,0,0);
+Obj("sstmixbiggrass1.obj","biggrass1",0,0,0);
+Obj("sstmixbiggrass1.obj","biggrass1",12,0,0);
+Obj("sstmixbiggrass1.obj","biggrass1",12,0,12);
+Obj("sstmixbiggrass1.obj","biggrass1",12,0,-12);
+Obj("sstmixbiggrass1.obj","biggrass1",-12,0,0);
+Obj("sstmixbiggrass1.obj","biggrass1",-12,0,-12);
+Obj("sstmixbiggrass1.obj","biggrass1",0,0,12);
+Obj("sstmixbiggrass1.obj","biggrass1",0,0,-12);
+Obj("sstmixbiggrass1.obj","biggrass1",-12,0,12);
